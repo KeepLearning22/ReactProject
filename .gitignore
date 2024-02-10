@@ -1,0 +1,18 @@
+/node_modules
+/dist
+# src/utils/
+# src/componants.Header.js
+# src/componants.RestaurantCard.js
+.vscode/
+.parcel-cache/
+.parcel-cache/data.mdb
+
+# when server
+# fetches code from git , it can cfeate node_module and dist file 
+
+<<<<<<< HEAD
+#on server by executing npm commands on serverso thesse folders can be put in gitignore
+# .parcel-cache/data.mdb
+=======
+#on server by executing npm commands on serverso thesse folders can be put in gitignore
+>>>>>>> parent of a8412e0 (Structure app by dividing it into diff folders)
